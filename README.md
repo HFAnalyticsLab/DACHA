@@ -20,9 +20,8 @@ ANY SCRIPTS LABELLED DATA CLEANING OR DATA PREP
 
 all in /Data cleaning/  - RUN
 CQC data prep    - RUN
-csds_cleaning - RUN - need to merge as on separate branch
-csds_referrals_cleaning -RUN - need to merge as on separate branch
-
+csds_cleaning - RUN 
+csds_referrals_cleaning -RUN
 
 ANY SCRIPTS LABELLED DERIVED VARIABLES:
 
